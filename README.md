@@ -6,8 +6,6 @@ This repository contains a collection of Java programs developed to explore and 
 
 ## 📁 Project Structure
 
-.
-
 ├── ArrayList/ # Custom array list and file reverse tool
 
 ├── Searcher/ # Generic binary search with comparators
@@ -105,10 +103,18 @@ Compile all Java files:
 javac **/*.java
 Run a class:
 
-
-
-bash
-Copy
-Edit
 java csc143.RecursionTest
+
 🔁 Some programs may require setting up input/output files (data/, results/) — make sure those directories exist.
+
+---
+
+## 🤝 Contact
+
+Got feedback or want to collaborate?
+
+📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
+📫 Email: kseojun05@gmail.com
+
+---
